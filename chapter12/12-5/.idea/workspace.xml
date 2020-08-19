@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95ffd62c-dace-4e43-b9bd-d9f2bf2a3a91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YeJ4mn1OSeMVh14ApicsXpNLxx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="alien_invasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.alien_invasion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95ffd62c-dace-4e43-b9bd-d9f2bf2a3a91" name="Default Changelist" comment="" />
+      <created>1583296937648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583296937648</updated>
+      <workItem from="1583296940543" duration="60000" />
+      <workItem from="1583297031778" duration="344000" />
+      <workItem from="1583333523265" duration="4279000" />
+      <workItem from="1583425648691" duration="126000" />
+      <workItem from="1583425961396" duration="987000" />
+      <workItem from="1583486771952" duration="7154000" />
+      <workItem from="1583652065126" duration="9277000" />
+      <workItem from="1584360770000" duration="2985000" />
+      <workItem from="1585833212243" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="851" height="155" key="GridCell.Tab.0.bottom" timestamp="1584368138461">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="851" height="155" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584362430683" />
+    <state width="843" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1583657353515" />
+    <state width="1358" height="135" key="GridCell.Tab.0.bottom/0.23.1920.1000/-1680.23.1680.1027@0.23.1920.1000" timestamp="1583652452313" />
+    <state width="851" height="155" key="GridCell.Tab.0.bottom/1680.0.1080.810/0.0.1680.1050@0.0.1680.1050" timestamp="1584368138461" />
+    <state width="851" height="155" key="GridCell.Tab.0.center" timestamp="1584368138459">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="851" height="155" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584362430682" />
+    <state width="843" height="161" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1583657353513" />
+    <state width="1358" height="135" key="GridCell.Tab.0.center/0.23.1920.1000/-1680.23.1680.1027@0.23.1920.1000" timestamp="1583652452311" />
+    <state width="851" height="155" key="GridCell.Tab.0.center/1680.0.1080.810/0.0.1680.1050@0.0.1680.1050" timestamp="1584368138459" />
+    <state width="851" height="155" key="GridCell.Tab.0.left" timestamp="1584368138458">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="851" height="155" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584362430681" />
+    <state width="843" height="161" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1583657353513" />
+    <state width="1358" height="135" key="GridCell.Tab.0.left/0.23.1920.1000/-1680.23.1680.1027@0.23.1920.1000" timestamp="1583652452310" />
+    <state width="851" height="155" key="GridCell.Tab.0.left/1680.0.1080.810/0.0.1680.1050@0.0.1680.1050" timestamp="1584368138458" />
+    <state width="851" height="155" key="GridCell.Tab.0.right" timestamp="1584368138460">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="851" height="155" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584362430683" />
+    <state width="843" height="161" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1583657353514" />
+    <state width="1358" height="135" key="GridCell.Tab.0.right/0.23.1920.1000/-1680.23.1680.1027@0.23.1920.1000" timestamp="1583652452312" />
+    <state width="851" height="155" key="GridCell.Tab.0.right/1680.0.1080.810/0.0.1680.1050@0.0.1680.1050" timestamp="1584368138460" />
+    <state x="637" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1583652071859">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="637" y="355" key="com.intellij.ide.util.TipDialog/0.23.1920.1000/-1680.23.1680.1027@0.23.1920.1000" timestamp="1583652071859" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/12_5$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1584368118399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/alien_invasion$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1583760973464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
